@@ -1,4 +1,4 @@
-# PXE-SRV-STEP
+# PXE-SRV-SETUP
 - OS : Debian
 - Services: TFTP, DHCP, HTTP,NFS
 - IPXE : Fichier BOOT
